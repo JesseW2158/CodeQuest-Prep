@@ -1,9 +1,8 @@
-# Common Math Functions by Santa Claude
-
 """
 LMT CodeQuest - Python Reference Functions
 ==========================================
 A comprehensive reference sheet for competitive programming.
+Common Math Functions by Santa Claude
 """
 
 import math
