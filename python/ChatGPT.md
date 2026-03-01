@@ -37,7 +37,6 @@ Common uses:
 * `combinations(arr, k)` → choose k elements
 * `product(a, b)` → nested loops cleaner
 * `accumulate(arr)` → prefix sums instantly
-* `groupby()` → groups consecutive elements of an iterable that share the same key value
 
 Example:
 
@@ -180,8 +179,6 @@ for x in arr:
 ```python
 pow(a, b, mod)   # extremely fast
 ```
-
-Modular exponentiation is an efficient method for computing the remainder of a large number raised to a high power divided by another number.
 
 ---
 
